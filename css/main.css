@@ -288,7 +288,7 @@ INTRO CONTAINER
  .featured.background_content{
     background: url('../images1/wide picture/in use/3f.jpg') no-repeat center center; 
     background-size: contain;
-    background-position: 70% 70%;
+    background-position: 50% 50%;
     <!--background-position: center;-->
     <!--background-attachment: fixed;-->
 }
