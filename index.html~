@@ -741,13 +741,13 @@
                                            <br>
                                            <br>
                                            <br>
-                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Парам М+Ж<br>2800 рублей</b></button>                                                 		
+                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fcouple/1pay_MEN.html'"><b>Парам М+Ж<br>2800 рублей</b></button>                                                 		
 
                 </div>
                 <div class="col-md-3">
 															<p class="desc-text">															                                          
                                           	<b>VIP-lounge</b><a href="index.html#VIP">(подробнее)</a>
-                                          	<br>Суббота, 18нояб 12:00 
+                                          	<br>Понедельник 20нояб 10:00 
                                           	<br><p>На данный момент</p> 
                                           	свободно: <b>1</b> из <b>2</b>
                                           	<br>
@@ -784,7 +784,7 @@
                 <div class="col-md-4"><p class="sub-footer-text text-center"></p>
                 </div>
                 <div class="col-md-4"><p class="sub-footer-text text-center"></a></p></div>
-						-->           
+						           
             </div>
         </footer>
 
